@@ -1,0 +1,11 @@
+E:\Program\TestDemos\TXJtest\GuessNumGame\bin\Debug\GuessNumGame.exe.config
+E:\Program\TestDemos\TXJtest\GuessNumGame\bin\Debug\GuessNumGame.exe
+E:\Program\TestDemos\TXJtest\GuessNumGame\bin\Debug\GuessNumGame.pdb
+E:\Program\TestDemos\TXJtest\GuessNumGame\obj\Debug\GuessNumGame.Form1.resources
+E:\Program\TestDemos\TXJtest\GuessNumGame\obj\Debug\GuessNumGame.Properties.Resources.resources
+E:\Program\TestDemos\TXJtest\GuessNumGame\obj\Debug\GuessNumGame.csproj.GenerateResource.cache
+E:\Program\TestDemos\TXJtest\GuessNumGame\obj\Debug\GuessNumGame.csproj.CoreCompileInputs.cache
+E:\Program\TestDemos\TXJtest\GuessNumGame\obj\Debug\GuessNumGame.exe
+E:\Program\TestDemos\TXJtest\GuessNumGame\obj\Debug\GuessNumGame.pdb
+E:\Program\TestDemos\TXJtest\GuessNumGame\obj\Debug\GuessNumGame.csproj.CopyComplete
+E:\Program\TestDemos\TXJtest\GuessNumGame\obj\Debug\GuessNumGame.csproj.AssemblyReference.cache
